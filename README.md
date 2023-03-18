@@ -8,7 +8,7 @@ _No todos los archivos que agreguemos a un proyecto deberían guardarse en un re
 
 ## ¿Cuándo se debe hacer?
 
-_Cuando veamos que hay archivos como por ejemplo contraseñas que son **necesario ignorar**, deberemos editar y confirmar manualmente el archivo. gitignore._
+_Cuando veamos que hay archivos como por ejemplo contraseñas que son **necesario ignorar**, deberemos editar y confirmar manualmente el archivo .gitignore._
 
 ## ¿Cómo configuraría el archivo .gitignore?
 
