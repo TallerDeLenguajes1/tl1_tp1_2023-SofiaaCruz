@@ -21,7 +21,4 @@ int main() {
     getchar();
     return 0;
 
-    getchar();
-
-    return 0;
 }
